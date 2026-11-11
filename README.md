@@ -1,2 +1,2 @@
 # bruno-demo
-Página de demostración del proyecto Bruno - agente onversacional para niños hospitalizados
+Página de demostración del proyecto Bruno - agente conversacional para niños hospitalizados
